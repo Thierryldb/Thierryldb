@@ -16,6 +16,3 @@
 ![IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![Thierry Git stats](https://github-readme-stats.vercel.app/api?username=Thierryldb&theme=tokyonight)
-
-![Thierry Git stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Thierryldb&theme=tokyonight)
